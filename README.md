@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate learner and aspiring full-stack developer, currently honing my skills in the MERN stack (MongoDB, Express, React, Node.js). I've recently started exploring TypeScript and Next.js to expand my capabilities and build more efficient and scalable applications.<br><br>I'm always eager to learn new technologies and improve my skills. Follow my journey as I build cool projects and continuously strive to grow as a developer.
+I'm a passionate learner and aspiring full-stack developer, currently honing my skills in the MERN stack (MongoDB, Express, React, Node.js). I've recently started exploring TypeScript and Next.js to expand my capabilities and build more efficient and scalable applications.<br><br>I'm always eager to learn new technologies and improve my skills.
 
 
 ## 🌐 Socials:
